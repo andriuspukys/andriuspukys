@@ -1,6 +1,6 @@
 ![MasterHead](https://www.adyogi.com/hubfs/home%20banner%20updated.jpg)
 <h1 align="center">Hi 👋, I'm Andrius</h1>
-<h3 align="center">I am enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
+<h3 align="center">I am an enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andriuspukys&label=Profile%20views&color=0e75b6&style=flat" alt="andriuspukys" /> </p>
 
