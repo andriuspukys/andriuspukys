@@ -1,4 +1,4 @@
-![MasterHead](https://tpmarkt.com/assets/images/imgonline-com-ua-black-white-35wgmdjepn10i-1476x830.jpg)
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQH2CR-QARtiKw/profile-displaybackgroundimage-shrink_350_1400/0/1703949852451?e=1709164800&v=beta&t=5gMjwmzv_A4AxlrBPvr5kaHkkPDXEJXR2lXLM7aTZvM)
 <h1 align="center">Hi 👋, I'm Andrius</h1>
 <h3 align="center">I am an enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
 
