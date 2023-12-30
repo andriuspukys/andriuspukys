@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1F2lrPA7GOAQ6zYIytkAG7E0VC3znXv0P/view?usp=sharing)](https://rishavchanda.io)
+![MasterHead](https://drive.google.com/file/d/1F2lrPA7GOAQ6zYIytkAG7E0VC3znXv0P/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Andrius</h1>
 <h3 align="center">Enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
 
