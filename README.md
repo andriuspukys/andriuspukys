@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E16AQH2CR-QARtiKw/profile-displaybackgroundimage-shrink_350_1400/0/1703949852451?e=1709164800&v=beta&t=5gMjwmzv_A4AxlrBPvr5kaHkkPDXEJXR2lXLM7aTZvM)
 <h1 align="center">Hi 👋, I'm Andrius</h1>
 <h3 align="left">I am an enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
-<img align="right" alt="Coding" width="400" src="https://techcrunch.com/wp-content/uploads/2020/06/bluekai-tc-hero.gif?w=1390&crop=1">
+<img align="right" alt="Coding" width="400" src="https://cdn.tech.eu/uploads/2022/05/bigdata2-698.gif">
 
 - 🌱 I’m currently learning **Python**
 
