@@ -1,4 +1,4 @@
-![MasterHead](https://www.deviantart.com/alatsombath/art/Fountain-of-Colors-desktop-music-visualizer-518894563)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*X8V9OosecAyGjb97)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Andrius</h1>
 <h3 align="center">Enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
 
