@@ -1,4 +1,4 @@
-![MasterHead](https://esportslegal.news/wp-content/uploads/2023/12/concepto-negocio-holografia-grafica-scaled.webp)
+![MasterHead](https://www.adyogi.com/hubfs/home%20banner%20updated.jpg)
 <h1 align="center">Hi 👋, I'm Andrius</h1>
 <h3 align="center">Enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
 
