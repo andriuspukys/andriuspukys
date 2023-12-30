@@ -1,4 +1,4 @@
-[![MasterHead](https://kingdommw.com/wp-content/uploads/2016/06/server-room.jpg)](https://rishavchanda.io)
+[![MasterHead](https://i.gifer.com/Ozgv.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Andrius</h1>
 <h3 align="center">Enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
 
