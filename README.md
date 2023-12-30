@@ -1,4 +1,4 @@
-![MasterHead](https://www.adyogi.com/hubfs/home%20banner%20updated.jpg)
+![MasterHead](https://www.analyticsinsight.net/wp-content/webp-express/webp-images/uploads/2022/08/asfavf.jpg.webp)
 <h1 align="center">Hi 👋, I'm Andrius</h1>
 <h3 align="center">I am an enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
 
