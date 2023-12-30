@@ -1,6 +1,6 @@
 ![MasterHead](https://www.adyogi.com/hubfs/home%20banner%20updated.jpg)
 <h1 align="center">Hi 👋, I'm Andrius</h1>
-<h3 align="center">I am an enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
+<h3 align="center">I am enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andriuspukys&label=Profile%20views&color=0e75b6&style=flat" alt="andriuspukys" /> </p>
 
@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andriuspukys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andriuspukys" height="30" width="40" /></a>
-<a href="https://discord.gg/andriusp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="andriusp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andriuspukys&show_icons=true&locale=en" alt="andriuspukys" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andriuspukys&" alt="andriuspukys" /></p>
+
 
