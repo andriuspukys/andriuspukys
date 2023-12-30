@@ -1,4 +1,4 @@
-![MasterHead](https://smartcities.data.gov.in/sites/default/files/Home_Page_Banner_1.png)
+![MasterHead](https://www.freepik.com/photo-editor/new-artboard?photo=https%3A%2F%2Fdownloadscdn7.freepik.com%2F23%2F2149161%2F2149160929.jpg%3Ffilename%3Dbusiness-concept-with-graphic-holography%26token%3Dexp%3D1703947863%7Ehmac%3D719bf07e35fb91c20070df425c1d6518&from_view=detail&id=20034608)
 <h1 align="center">Hi 👋, I'm Andrius</h1>
 <h3 align="center">Enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
 
