@@ -1,4 +1,4 @@
-![MasterHead](https://streetgains.in/insights/wp-content/uploads/2023/12/Sensex.png)
+![MasterHead](https://www.thestrategyinstitute.org/images/innovativestrategies.jpg)
 <h1 align="center">Hi 👋, I'm Andrius</h1>
 <h3 align="center">I am an enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
 
