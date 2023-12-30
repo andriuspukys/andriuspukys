@@ -1,4 +1,4 @@
-![MasterHead](https://www.thestrategyinstitute.org/images/innovativestrategies.jpg)
+![MasterHead](https://tpmarkt.com/assets/images/imgonline-com-ua-black-white-35wgmdjepn10i-1476x830.jpg)
 <h1 align="center">Hi 👋, I'm Andrius</h1>
 <h3 align="center">I am an enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
 
