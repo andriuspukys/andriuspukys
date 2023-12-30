@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E16AQH2CR-QARtiKw/profile-displaybackgroundimage-shrink_350_1400/0/1703949852451?e=1709164800&v=beta&t=5gMjwmzv_A4AxlrBPvr5kaHkkPDXEJXR2lXLM7aTZvM)
 <h1 align="center">Hi 👋, I'm Andrius</h1>
 <h3 align="left">I am an enthusiastic and results-oriented professional with a unique blend of skills in both Data Analysis and Marketing</h3>
-<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/DY2BKE51R_gmK_6Us7T8TpuB31RCrGTj3ZL2cn4EWuhNxT2nZ78OVfQdec9CJrmo9uHBEs3gVEKMd73tAkCuN7_eFJ-kNLnfgx6k5OMXq84-gWH9VdOA8kRDufo1pNXN1Bdek-yIplJ43o7PssS5nCs">
+<img align="right" alt="Coding" width="400" src="https://content.app-sources.com/s/84415124583454871/uploads/CROME-Digital_Website_Images__Files/Performance_Marketing-8433969.gif">
 
 - 🌱 I’m currently learning **Python**
 
